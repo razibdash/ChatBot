@@ -1,0 +1,6 @@
+langchain==0.2.11
+python-dotenv==1.0.1
+langchain-groq==0.1.6
+langchain-community==0.2.10
+langserve==0.2.2
+langgraph==0.1.19
